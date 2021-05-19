@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_annotated</folder>
+	<filename>sr_0_1506.png</filename>
+	<path>D:\images_annotated\sr_0_1506.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1366</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>searchtextbox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>4</ymin>
+			<xmax>1365</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>
